@@ -1,6 +1,7 @@
 # UniAudio 2.0: A Multi-task Audio Foundation Model with Reasoning-Augmented Audio Tokenization
 
-![overview](figures/uniaudio2.0.png){ width=200px }
+<!-- ![overview](figures/uniaudio2.0.png){ width=200px } -->
+<img src="figures/uniaudio2.0.png" alt="overview" width="400">
 
 ## Abstract
 
