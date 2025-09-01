@@ -35,6 +35,7 @@ the reasoning text may like that:
 
 'The audio quality is clear, with no noticeable background noise or distortion. The speaker's gender is identifiable as female. The language appears to be English. There is only one speaker. The recording environment seems to be quiet and controlled, possibly a studio or a quiet room.\nThe speaker's speech rate is moderate. There are very short pauses, possibly for breath or emphasis, but they do not disrupt the flow significantly. Pitch variation is present, contributing to a natural and engaging delivery. Stress patterns are typical for English, emphasizing key words. Fluency is high, with no apparent disfluencies like stutters or hesitations.\nThe transcription captures the spoken words accurately. Keywords like 'ask', 'bring', and'store' are identified. The emotional tendency appears neutral to slightly positive, and the tone is informative and clear'
 
+Also, you can set the different task prompts to control the target text for the reasoning token.
 
 ## How to train the model
 
