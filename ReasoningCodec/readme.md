@@ -1,6 +1,6 @@
 ## ReasoningCodec: Descriptive and Structural Semantic Tokenization for Audio Language Modeling
 
-![overview](figures/codec_overview.png)
+![overview](codec_overview.png)
 
 ## Abstract
 
